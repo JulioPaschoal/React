@@ -10,4 +10,3 @@ Modulos do Curso
 
 ```
 
-# Forma-o-React
