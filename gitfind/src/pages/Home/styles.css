@@ -38,3 +38,19 @@ button {
   font-style: 18px;
   padding: 10px;
 }
+
+.perfil {
+  display: flex;
+  margin: 20px 0;
+  justify-content: center ;
+
+
+}
+
+.profile {
+  width: 120px;
+  height: 120px;
+  border-radius: 60px;
+  border: 2px solid #E5E5E5;
+  
+}
